@@ -41,3 +41,6 @@ En este laboratorio, crearás una aplicación de escritorio que funcione como un
 - Código fuente.
 - Documentación que describa el funcionamiento de la aplicación y las decisiones de diseño tomadas durante el desarrollo.
 - Archivo Excel utilizado para las pruebas, incluyendo una breve explicación de cada conjunto de datos de prueba.
+
+# Dependencias
+- Pandas openpyxl
